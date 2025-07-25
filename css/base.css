@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Manufacturing+Consent&family=Satisfy&display=swap');
+:root{
+
+--color-primary: #006400;
+--color-secundary: #F5F5DC;
+
+--color-light: #FAFAFA;
+--color-dark: #1e1e1f;
+--font-title:"Manufacturing Consent", system-ui; ;
+--font-text:"Satisfy", cursive; ;
+}
